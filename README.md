@@ -6,9 +6,6 @@ title: Bookmarks
 
 一些具有优秀设计和用户体验的网站/工具。
 
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=wxhboy.cn%2Fbookmarks&url=https%3A%2F%2Fwxhboy.cn%2Fbookmarks)](https://wxhboy.cn/bookmarks)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Wxh16144/bookmarks?label=Source%20Code&style=for-the-badge)](https://github.com/Wxh16144/bookmarks)
-
 <!-- TOC -->
 
 - [Bookmarks](#bookmarks)
@@ -72,6 +69,8 @@ title: Bookmarks
 - [Regex101](https://regex101.com) 多语言正则表达式调试器
 - [Regexper](https://regexper.com/) 正则表达式校验
 - [matools.com/crontab](https://www.matools.com/crontab?embed) 在线 crontab 执行时间计算
+- [nodejstoolbox.com](https://nodejstoolbox.com/) Node.js Toolbox
+- [jets.idejihuo.com](http://jets.idejihuo.com/) JetBrains 产品正版激活码
 
 ## CSS
 
