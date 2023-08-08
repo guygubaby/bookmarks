@@ -9,6 +9,8 @@ title: Bookmarks
 <!-- TOC -->
 
 - [Bookmarks](#bookmarks)
+  
+  - [UI](#ui)
   - [Test & Mock](#test--mock)
   - [Coding](#coding)
   - [Img & Emoji](#img--emoji)
@@ -20,6 +22,10 @@ title: Bookmarks
   - [Other](#other)
 
 <!-- /TOC -->
+
+## UI
+
+- [langui.dev](https://www.langui.dev/) Beautiful components for your AI projects
 
 ## Test & Mock
 
