@@ -11,6 +11,7 @@ title: Bookmarks
 - [Bookmarks](#bookmarks)
   
   - [UI](#ui)
+  - [AI](#ai)
   - [Test & Mock](#test--mock)
   - [Coding](#coding)
   - [Img & Emoji](#img--emoji)
@@ -26,6 +27,10 @@ title: Bookmarks
 ## UI
 
 - [langui.dev](https://www.langui.dev/) Beautiful components for your AI projects
+
+## AI
+
+- [toolify.ai](https://www.toolify.ai/) Discover The Best AI Website
 
 ## Test & Mock
 
